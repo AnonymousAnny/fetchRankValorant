@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "my-valorant-project",
+  "private_key_id": "ea57e9d77c1653e4b334ce7690d44eed38bb56d3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDC9VlrHLg4fSKv\n0anBdGrJVyJq9QjPsTIGJshay8KIfHKh/7r0y9fcaic/i52+PYzpTD4lD7sxiu05\nABleTdCR/eb50XxwJcX2GCxrR9ikV0qkFbgiKCDIkbFN3Yzz0KjWboKPMGn1nROB\ntBmQOUPG6JfvUbAJLagfcXtEOeBiHoVuCJCUuYKHRBiMx0Q9p+bB+eXdXpQ/zBZR\n90OJ5PIcBB8AlwqxZJFAG6SMCaQZYgSEpjVwUIJZ+eoppNXJf8/u/Ks199Dfnjl6\nZld6KUKhaOPEJi3sZZPshg+xDqg1zYj2C11imoWuQMAK7AE4YdqQQbcfDf1hlMD+\n1B9bMx6PAgMBAAECggEAAd8C9bE332rsC03y2CV65OXOMcKaTAwCU+bJY32zJ0Yy\nf3WJ4NGYB8iJCeYYJHxIvvB5ZDerb0VLE5H5rFsI1m3eaqVlEVp7dOo0eu8cmC8y\nSzLeKo3CCsrDLeEjei+Vf0FeRWuMiMvyJPuKh0TVbrJKywQ4sU3b4Dlhmn0Ht0lZ\naqJhsCtIUIghl7Rs9P5pPl64jEycczL8FpiVIb8GcW/pm0bU5legba3k9bAURPS1\nmXSYcPgnLA0ssNlCdRvCPnGR9D37fyVrBo/SxL/fCO48hcQiygweXdBFH5APK+Xp\nnT2hW5eWy9pZSBcdu+MOqZf+y0z2OSkHhAW4r+J3cQKBgQDhOxVgwROai+XHvc+k\ngGjLoIabLlWJhgo4q/XjGNayuGankLMnn0bhNURiQVF6fYY7zO0DE8iopTJn+9v8\nTXvSKGyYyGvT9AsV7QrKgBa6Cq1lpHv7TgAJdiu77dIpghD/ASWfa+PmE3t6elPO\nIiWBdEhzQRBJZKFbgnDJBYdhiQKBgQDdl49XfPhUUXhQD6wPfgMuWTkf8OddBA98\nI+agNMGnzHmiGDU210tdTDxXN/tVjM7w8W/6x7xLlOSCk4217RJ/7oYkaYCyy3Tz\niPEww0ZPSHqYk8woxroHB8xPwsFIls48+N4sKzzGFthYg9DX6y3hMA5FX+v9MpJB\npjZHb6fxVwKBgQC4JubDxRmSMvAc8ETl61fDpexo1Ol7F+0jiPXySEzCs6K7PsQ8\nkS4S1Mqky2MjE569JkBjU7msqeUcwACNuYyTuBmSkcwX8GFf+//msfPjCPfdMy9r\nucqt8cCwVzKOXZon5XgtcLlVVHiRG5OJ5sFjpv/VvEzktTJ4753nvm2CgQKBgAcZ\nuCohgwOQqL5IAkdszkVJ7p6rZX6Bhs1/iQBRMHNkBfG/vNTJCU0wCC7zSEZxgKAP\n3Hq4s7voRXo5qCzQL+uRhRLdnpYcFt9G4BOj7jjUJbmF4uDbnVJkWZOktfTRgEJL\n5zKbIBNo3/3WG3cPviSdGZf3fuRaHn2kCdE4LrV5AoGAdfhUNuw5u9irkO8w79tb\nO8PJpfeQskJybwX8TB559pl+mBI6LFa5l9i0RoyDinBd8pLmm/xopo/WeNgOBiFD\nCAQJA/KCQfeEA4uqXCDT8CvcOAKqnaa6DiBrkDwfdX1QVzuCHLnNjUIy9Z7V2j+2\n7AQlw3f1bIbbVjjGmh7PV4E=\n-----END PRIVATE KEY-----\n",
+  "client_email": "valorant@my-valorant-project.iam.gserviceaccount.com",
+  "client_id": "108098667442793099109",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/valorant%40my-valorant-project.iam.gserviceaccount.com"
+}
